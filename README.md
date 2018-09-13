@@ -1,5 +1,5 @@
 # GethAndSolidity
-如何自造私鍊呢?
+如何自造私鏈呢?
 github wiki的 [Geth教學](https://github.com/twilighthook/GethAndSolidity/wiki/Geth%E6%95%99%E5%AD%B8)<br>
 
 solidity智能合約可以用Remix寫<br>
